@@ -1,0 +1,12 @@
+[submodule "Core"]
+	path = Core
+	url = git@github.com:Andreafusella/YouNight-Core.git
+[submodule "Warehouse"]
+	path = Warehouse
+	url = git@github.com:Andreafusella/YouNight-Warehouse.git
+[submodule "Commons-dto"]
+	path = Commons-dto
+	url = git@github.com:Andreafusella/YouNight-CommonDto.git
+[submodule "YouNight-Warehouse"]
+	path = YouNight-Warehouse
+	url = git@github.com:Andreafusella/YouNight-Warehouse.git
